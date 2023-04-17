@@ -1,4 +1,4 @@
-## Micronaut 3.7.3 Documentation
+## Micronaut 3.8.7 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.7.3/guide/index.html)
 - [API Reference](https://docs.micronaut.io/3.7.3/api/index.html)
@@ -11,3 +11,7 @@
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 
+## run this
+
+java11
+./mvnw mn:run
